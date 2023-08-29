@@ -1,6 +1,4 @@
-<img width="385" alt="nn2" src="https://github.com/Sucharithachowdary/nn-classification/assets/94166007/d57ad213-72f8-4a74-aa4c-5bec8933a6d1"># Developing a Neural Network Classification Model
-
-## AIM
+### AIM
 
 To develop a neural network classification model for the given dataset.
 
